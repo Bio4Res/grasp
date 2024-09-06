@@ -24,5 +24,10 @@ If you are using Maven, the following dependency can be added to your project:
     </dependency>
 ~~~
 
+## Applications
+
+The library has been used in the following projects (non-exhaustive list):
+
+* [aircraft-landing-scheduling](https://github.com/Bio4Res/aircraft-landing-scheduling): Solving the Aircraft Landing Scheduling with metaheuristics
 
 
